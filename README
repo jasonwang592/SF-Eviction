@@ -1,0 +1,3 @@
+This project is meant to analyze the dataset from Kaggle on evictions in San Francisco.
+The analysis will include breakdown by neighborhood, eviction type and hopefully a map of eviction coordinates superimposed on satellite/road maps. This is more for exploratory analysis and learning and will make use of Python (including Pandas, heatmaps, seaborn, etc) and R (ggplot, RColorBrwer, etc).
+
